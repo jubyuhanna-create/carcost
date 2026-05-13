@@ -1,0 +1,3 @@
+# Supabase
+NEXT_PUBLIC_SUPABASE_URL=https://eekodhmuczopueddnwgo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_BagW2LiFKQ2TVMEraEtr4w_kmwkXg68
